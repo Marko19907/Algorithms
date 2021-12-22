@@ -6,6 +6,7 @@ This repository contains the various implementations of algorithms and data stru
 The project is a mix of optional exercises and recommended tasks,
 it is not mandatory, and it does not count towards the final grade in the subject.
 
+[![Java CI with Maven](https://github.com/Marko19907/Algorithms/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Marko19907/Algorithms/actions/workflows/maven.yml)
 
 ## List of Algorithms
 
